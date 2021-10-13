@@ -1,0 +1,8 @@
+.login-container h1 {
+  font-weight: 300;
+  color: #333;
+}
+.otherslogin img {
+  margin: 0px 10px;
+  cursor: pointer;
+}
